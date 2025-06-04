@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Final year student at ENI - École informatique  
+🎓 3rd year student at ENI - École informatique  
 💼 Freelance web developer with 1+ year of experience in Laravel, Wordpress ans JS  
 🌱 Currently learning advanced JavaScript frameworks, Java back-end solutions and much more thanks to ENI  
 💡 Passionate about creating clean, efficient code (Backend lover)  
