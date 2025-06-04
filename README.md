@@ -57,7 +57,7 @@
 
 ## 📫 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/mihai-tverdohleb/)  
-📧 Email: mihaitv9@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/mihai-tverdohleb/)  (French)  
+📧 [Email](mailto:mihaitv9@gmail.com)
 
 <sup>💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House</sup>
